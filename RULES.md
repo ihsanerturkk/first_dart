@@ -6,3 +6,7 @@
 
 ## class name 
 * should be PascalCase  like this : CarMachine
+
+## folder name
+* shold be lowercase and underline like this: car_details
+
