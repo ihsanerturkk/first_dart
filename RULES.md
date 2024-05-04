@@ -6,4 +6,3 @@
 
 ## class name 
 * should be PascalCase  like this : CarMachine
-* 
